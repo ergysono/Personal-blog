@@ -1,1 +1,1 @@
-# blog-next
+# blog-nextjs - react - graphql - tailwindcss
